@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Sana Özel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Seni çok seviyorum ❤️</h1>
+    <p>Bugünümüz, yarınımız ve sonsuza kadar...</p>
+    <img src="https://placekitten.com/400/300" alt="Sevgilim">
+</body>
+</html>
